@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Moderation script
+// @name        Moderation script Test
 // @author      TheLUCKYfighter & Coxis (EU EN - Wrenchmen)
 // @version     1.7.4
 // @include     http://boards.euw.leagueoflegends.com/en/*
