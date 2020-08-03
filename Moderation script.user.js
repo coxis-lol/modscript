@@ -11,7 +11,7 @@
 // ==/UserScript==
 // This script is open source inside the League of Legends Volunteer Program. It can be viewed, used, modified, shared with other volunteers by anybody who wants to do so. However, make sure anything you change is in line with the guidelines we have inside the Volunteer program. 
 
-// Initialize //
+// Initialize // yoloing the master one
 
 $(window).load(function(){
 
